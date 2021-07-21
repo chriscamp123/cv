@@ -1,0 +1,20 @@
+body {background-color:#3fc1c9}
+hr {border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 15%;
+    height: 2px; }
+  h1{color:orange;}
+  h1:hover{color: black;}
+li{color:purple;}
+h3{color:yellow;}
+p{color:green;}
+th{color:red;}
+
+.guitar {background-color: green;}
+.Meditate {background-color: pink;}
+.semicirle{border-radius: 20%}
+.circular {border-radius: 100%}
+.profilepic{border-radius: 100%}
+img:hover{background-color: gold}
